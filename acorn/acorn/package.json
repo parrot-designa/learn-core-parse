@@ -4,7 +4,7 @@
   "homepage": "https://github.com/acornjs/acorn",
   "main": "dist/acorn.js",
   "types": "dist/acorn.d.ts",
-  "module": "dist/acorn.mjs",
+  "module": "dist/acorn.mjs", 
   "exports": {
     ".": [
       {
